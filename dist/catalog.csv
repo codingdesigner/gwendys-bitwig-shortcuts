@@ -1,0 +1,791 @@
+ID,Action,Category,Keys,Assignment,Scope,Review,Kind,Notes,Sources,Parent ID
+BW-389,Close,File,Cmd+W,Assigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-390,Import Impulses...,File,,Unassigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-391,Import Wavetables...,File,,Unassigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-392,New From Template...,File,Cmd+Shift+N,Assigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-393,New Project,File,Cmd+N,Assigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-394,Open...,File,Cmd+O,Assigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-395,Quit,File,Cmd+Q; Alt+F4,Assigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-396,Save,File,Cmd+S,Assigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-397,Save as Template...,File,,Unassigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-398,Save as...,File,Cmd+Shift+S,Assigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-399,Save to Library...,File,,Unassigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-400,Adaptive Beat Grid,General,/,Assigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-401,Add Automation Lane,General,Enter,Assigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-402,Adjust Value Down (fine),General,Down; Shift+Down; Cmd+Shift+Down,Assigned,Not specified in screenshot,Needs review,Action,Additional shortcut chips clipped at right.,S16,
+BW-403,Adjust Value Step Down,General,Down; Cmd+Down; Cmd+Down; Cmd+Down,Assigned,Not specified in screenshot,Needs review,Action,Additional shortcut chips clipped at right.,S16,
+BW-404,Adjust Value Step Up,General,Up; Cmd+Up; Cmd+Up; Cmd+Up; Cmd+Up,Assigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-405,Adjust Value Up (fine),General,Up; Shift+Up; Cmd+Shift+Up; Cmd+Shift+Up,Assigned,Not specified in screenshot,Needs review,Action,Additional shortcut chip clipped at right.,S16,
+BW-406,Apply Tempo Curve to Arranger,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-407,Audition tool,General,7,Assigned,Not specified in screenshot,Transcribed,Action,User verified 2026-11-13: 7 only. User removed the accidental è mapping in Bitwig.,S16,
+BW-408,Auto-Crossfade,General,Cmd+Shift+F,Assigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-409,Auto-Fade,General,Cmd+F,Assigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-410,Bounce In Place (Post-Fader),General,Cmd+Shift+Alt+B,Assigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-411,Bounce In Place (Pre-Fader),General,Cmd+Alt+B,Assigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-412,Bounce In Place (Pre-FX),General,Cmd+B,Assigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-413,Bounce...,General,Cmd+Ctrl+Alt+B,Assigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-414,Check for Updates...,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-415,Clear all Expressions,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-416,Clear selected Expression,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-417,Click button,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-418,Collect and Save...,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-419,Color Notes by Channel,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-420,Color Notes by Clip,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-421,Color Notes by Pitch Class,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-422,Color Notes by Velocity,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-423,Commander...,General,Ctrl+Enter,Assigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-424,Consolidate,General,Cmd+J,Assigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-425,Convert to Audio Track,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-426,Convert to Hybrid Track,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-427,Convert to Instrument Track,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-428,Create Empty Clip,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-429,Create New Control Surface Project,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-430,Cut Time,General,Cmd+Shift+X,Assigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-431,Detect Event Tempo,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-432,Detect Event Tempo...,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-433,Disable All Unused Sends,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-434,Double Content,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-435,DSP Performance Graph,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S16,
+BW-436,Duplicate Time,General,Cmd+Shift+D,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-437,Edit File Metadata...,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-438,Eraser tool,General,6; -; §,Assigned,Not specified in screenshot,Transcribed,Action,User verified punctuation/key transcription in Bitwig on 2026-11-13.,S17,
+BW-439,Expand...,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-440,Extend Time Selection Range to First Item,General,Cmd+Shift+Left; Cmd+Shift+Left; Shift+Home,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-441,Extend Time Selection Range to Last Item,General,Cmd+Shift+Right; Cmd+Shift+Right; Shift+End,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-442,Extend Time Selection Range to Next Item,General,Shift+Right; Ctrl+Shift+Right; Shift+Alt+Right,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-443,Extend Time Selection Range to Next Step,General,Shift+Right; Ctrl+Shift+Right; Shift+Alt+Right,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-444,Extend Time Selection Range to Previous Item,General,Shift+Left; Ctrl+Shift+Left; Shift+Alt+Left,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-445,Extend Time Selection Range to Previous Step,General,Shift+Left; Ctrl+Shift+Left; Shift+Alt+Left,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-446,Fade In to Here,General,Shift+7,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-447,Fade Out from Here,General,Shift+0,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-448,Focus/toggle Browser Panel,General,Alt+B,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-449,Fold to Takes...,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-450,Gain +1dB,General,Shift+Alt+Up,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-451,Gain +6dB,General,Alt+Up,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-452,Gain -1dB,General,Shift+Alt+Down,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-453,Gain -6dB,General,Alt+Down,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-454,Insert from Library...,General,B; Insert,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-455,Insert Silence,General,Cmd+Shift+P,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-456,Install Pack from File,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-457,Knife tool,General,5; (,Assigned,Not specified in screenshot,Transcribed,Action,User verified punctuation/key transcription in Bitwig on 2026-11-13.,S17,
+BW-458,Larger Beat Grid,General,.,Assigned,Not specified in screenshot,Transcribed,Action,User verified punctuation/key transcription in Bitwig on 2026-11-13.,S17,
+BW-459,Larger Beat Grid Subdivision,General,Alt+.,Assigned,Not specified in screenshot,Transcribed,Action,User verified punctuation/key transcription in Bitwig on 2026-11-13.,S17,
+BW-460,Launch,General,Enter; Enter,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-461,Load Default Preset,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-462,Loop Selected Region,General,Cmd+L,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-463,Make Events Fine/Alternate Amount Longer,General,Ctrl+Shift+Right,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-464,Make Events Fine/Alternate Amount Shorter,General,Ctrl+Shift+Left,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-465,Make Events One Step Longer,General,Ctrl+Right,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-466,Make Events One Step Shorter,General,Ctrl+Left,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-467,Make Legato,General,Cmd+Shift+Alt+L,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-468,Make Unique,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-469,Merge Duplicate Patterns,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-470,Move Time Selection One Event Earlier,General,Left; Left; Ctrl+Left; Alt+Left,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-471,Move Time Selection One Event Later,General,Right; Right; Ctrl+Right; Alt+Right,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-472,Move Time Selection One Step Earlier,General,Left; Ctrl+Left; Ctrl+Left; Alt+Left; Alt+Left,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-473,Move Time Selection One Step Later,General,Right; Ctrl+Right; Ctrl+Right; Alt+Right,Assigned,Not specified in screenshot,Needs review,Action,Additional shortcut clipped at right (starts Alt+Ri...).,S17,
+BW-474,Move Time Selection to First Item,General,Cmd+Left; Cmd+Left; Home,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-475,Move Time Selection to Last Item,General,Cmd+Right; Cmd+Right; End,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-476,Next history entry,General,Down; Down,Assigned,Not specified in screenshot,Transcribed,Action,,S17,
+BW-477,Normalize,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-478,Nudge Events Fine/Alternate Amount Backward,General,Shift+Left; Shift+Left; Shift+Left; Shift+Left,Assigned,Not specified in screenshot,Needs review,Action,Additional shortcut chips clipped at right.,S18,
+BW-479,Nudge Events Fine/Alternate Amount Forward,General,Shift+Right; Shift+Right; Shift+Right; Shift+Right,Assigned,Not specified in screenshot,Needs review,Action,Final chip partly clipped; additional hidden shortcuts may exist.,S18,
+BW-480,Nudge Events One Step Backward,General,Left; Left; Left; Left; Alt+Left; Alt+Left,Assigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-481,Nudge Events One Step Forward,General,Right; Right; Right; Right; Alt+Right,Assigned,Not specified in screenshot,Needs review,Action,Additional shortcut clipped at right (starts Alt+Ri...).,S18,
+BW-482,Paste Time,General,Cmd+Shift+V,Assigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-483,Pencil tool,General,"3; """,Assigned,Not specified in screenshot,Transcribed,Action,User verified punctuation/key transcription in Bitwig on 2026-11-13.,S18,
+BW-484,Pencil tool (in Curve Editor),General,2,Assigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-485,Play from Left Edge of Current Editor,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-486,Play from Time Selection,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-487,Pointer tool,General,1; &,Assigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-488,Pointer tool (in Curve Editor),General,1,Assigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-489,Previous history entry,General,Up; Up,Assigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-490,Pulse tool (in Curve Editor),General,4,Assigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-491,Quantize,General,Q,Assigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-492,Quantize Audio,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-493,Quantize Audio...,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-494,Quantize Length,General,Cmd+Alt+L,Assigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-495,Quantize to Key,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-496,Quantize...,General,Alt+Q,Assigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-497,Ramp tool (in Curve Editor),General,5,Assigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-498,Remove Time,General,Shift+Backspace; Shift+Delete,Assigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-499,Reset Fades,General,Cmd+Alt+F,Assigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-500,Reverse,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-501,Reverse Pattern,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-502,Save as Default Preset,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-503,Saw tool (in Curve Editor),General,6,Assigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-504,Scale 200%,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-505,Scale 50%,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-506,Scale Each 200%,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-507,Scale Each 50%,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-508,Scale...,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-509,Select End of Selection Range,General,Right; Right,Assigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-510,Select Next Auto Complete Item,General,Down,Assigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-511,Select Next Track,General,Page Down,Assigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-512,Select Previous Auto Complete Item,General,Up,Assigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-513,Select Previous Track,General,Page Up,Assigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-514,Select Start of Selection Range,General,Left; Left,Assigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-515,Set Clip Start,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-516,Set Event Tempo...,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-517,Set Event to current Project Tempo,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S18,
+BW-518,Set Object End,General,Shift+9,Assigned,Not specified in screenshot,Transcribed,Action,,S19,
+BW-519,Set Object Start,General,Shift+8,Assigned,Not specified in screenshot,Transcribed,Action,,S19,
+BW-520,Set Project Tempo,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S19,
+BW-521,Settings,General,"Cmd+,",Assigned,Not specified in screenshot,Transcribed,Action,User verified punctuation/key transcription in Bitwig on 2026-11-13.,S19,
+BW-522,Show Advanced Settings,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S19,
+BW-523,Show Beat Grid,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S19,
+BW-524,Show Control Script Console,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S19,
+BW-525,Show Dashboard,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S19,
+BW-526,Show in Finder,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S19,
+BW-527,Show Time Grid,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S19,
+BW-528,Slice At Repeats,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S19,
+BW-529,Slice In Place...,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S19,
+BW-530,Slice to Drum Machine...,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S19,
+BW-531,Slice to Multisample...,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S19,
+BW-532,Slice to sliced Sampler,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S19,
+BW-533,Slide Content Left,General,Alt+Left,Assigned,Not specified in screenshot,Transcribed,Action,,S19,
+BW-534,Slide Content Right,General,Alt+Right,Assigned,Not specified in screenshot,Transcribed,Action,,S19,
+BW-535,Slide Waveform to Next Onset,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S19,
+BW-536,Slide Waveform to Previous Onset,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S19,
+BW-537,Smaller Beat Grid,General,",",Assigned,Not specified in screenshot,Transcribed,Action,User verified punctuation/key transcription in Bitwig on 2026-11-13.,S19,
+BW-538,Smaller Beat Grid Subdivision,General,"Alt+,",Assigned,Not specified in screenshot,Transcribed,Action,User verified punctuation/key transcription in Bitwig on 2026-11-13.,S19,
+BW-539,Snap Relative to Original Event,General,Shift+.,Assigned,Not specified in screenshot,Transcribed,Action,User verified punctuation/key transcription in Bitwig on 2026-11-13.,S19,
+BW-540,Snap to Beat Grid,General,"Shift+,",Assigned,Not specified in screenshot,Transcribed,Action,User verified punctuation/key transcription in Bitwig on 2026-11-13.,S19,
+BW-541,Snap to Other Events,General,Shift+/,Assigned,Not specified in screenshot,Transcribed,Action,,S19,
+BW-542,Split,General,Cmd+E,Assigned,Not specified in screenshot,Transcribed,Action,,S19,
+BW-543,Spray Can tool,General,4; ',Assigned,Not specified in screenshot,Transcribed,Action,User verified punctuation/key transcription in Bitwig on 2026-11-13.,S19,
+BW-544,Step Input tool,General,8; !; _,Assigned,Not specified in screenshot,Transcribed,Action,User verified punctuation/key transcription in Bitwig on 2026-11-13.,S19,
+BW-545,Step tool (in Curve Editor),General,3,Assigned,Not specified in screenshot,Transcribed,Action,,S19,
+BW-546,Swap Main and ALT Default Clip Launcher Setti...,General,,Unassigned,Not specified in screenshot,Needs review,Action,Action name clipped.,S19,
+BW-547,Time Selection tool,General,2; é,Assigned,Not specified in screenshot,Transcribed,Action,User verified punctuation/key transcription in Bitwig on 2026-11-13.,S19,
+BW-548,Time Snapping,General,S,Assigned,Not specified in screenshot,Transcribed,Action,,S19,
+BW-549,Toggle Computer Keyboard Note Input,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S19,
+BW-550,Toggle Expanded Device View of Selected Device,General,,Unassigned,Not specified in screenshot,Transcribed,Action,,S15,
+BW-551,Toggle Undocked Expanded Device View of Tra...,General,,Unassigned,Not specified in screenshot,Needs review,Action,Action name clipped.,S15,
+BW-552,Transpose a Semitone Down,General,Alt+-,Assigned,Not specified in screenshot,Transcribed,Action,,S15,
+BW-553,Transpose a Semitone Up,General,Alt++; Alt+=,Assigned,Not specified in screenshot,Transcribed,Action,,S15,
+BW-554,Transpose an Octave Down,General,Shift+Alt+-,Assigned,Not specified in screenshot,Transcribed,Action,,S15,
+BW-555,Transpose an Octave Up,General,Shift+Alt++; Shift+Alt+=,Assigned,Not specified in screenshot,Transcribed,Action,,S15,
+BW-556,Triangle tool (in Curve Editor),General,7,Assigned,Not specified in screenshot,Transcribed,Action,,S15,
+BW-557,Wrap Related Automation as Clips,General,Cmd+G,Assigned,Not specified in screenshot,Transcribed,Action,,S15,
+BW-558,Activate,Editing,,Unassigned,Not specified in screenshot,Transcribed,Action,,S15,
+BW-559,Copy,Editing,Cmd+C; Ctrl+Insert,Assigned,Not specified in screenshot,Transcribed,Action,,S15,
+BW-560,Cut,Editing,Cmd+X; Shift+Delete,Assigned,Not specified in screenshot,Transcribed,Action,,S15,
+BW-561,Deactivate,Editing,,Unassigned,Not specified in screenshot,Transcribed,Action,,S15,
+BW-562,Delete,Editing,Backspace; Delete,Assigned,Not specified in screenshot,Transcribed,Action,,S15,
+BW-563,Duplicate,Editing,Cmd+D,Assigned,Not specified in screenshot,Transcribed,Action,,S15,
+BW-564,Duplicate as Alias,Editing,Cmd+Alt+D,Assigned,Not specified in screenshot,Transcribed,Action,,S15,
+BW-565,Flatten as Track Automation,Editing,Cmd+Shift+G,Assigned,Not specified in screenshot,Transcribed,Action,,S15,
+BW-566,Group,Editing,Cmd+G,Assigned,Not specified in screenshot,Transcribed,Action,,S15,
+BW-567,Paste,Editing,Cmd+V; Shift+Insert,Assigned,Not specified in screenshot,Transcribed,Action,,S15,
+BW-001,Paste as Alias,Editing,Cmd+Alt+V,Assigned,Not specified in screenshot,Transcribed,Action,,S01; S15,
+BW-002,Redo,Editing,Cmd+Y; Cmd+Shift+Z,Assigned,Not specified in screenshot,Transcribed,Action,,S01; S15,
+BW-003,Rename,Editing,Cmd+R,Assigned,Not specified in screenshot,Transcribed,Action,,S01; S15,
+BW-004,Switch between Object and Time Selection,Editing,Ctrl+T,Assigned,Not specified in screenshot,Transcribed,Action,,S01; S15,
+BW-005,Toggle Active/Mute State,Editing,Alt+A,Assigned,Not specified in screenshot,Transcribed,Action,,S01; S15,
+BW-006,Toggle Hold,Editing,H,Assigned,Not specified in screenshot,Transcribed,Action,,S01; S15,
+BW-007,Toggle On / Off,Editing,,Unassigned,Not specified in screenshot,Transcribed,Action,,S01; S15,
+BW-008,Turn Off,Editing,,Unassigned,Not specified in screenshot,Transcribed,Action,,S01; S15,
+BW-009,Turn On,Editing,,Unassigned,Not specified in screenshot,Transcribed,Action,,S01; S15,
+BW-010,Undo,Editing,Cmd+Z,Assigned,Not specified in screenshot,Transcribed,Action,,S01; S15,
+BW-011,Ungroup,Editing,Cmd+Shift+G,Assigned,Not specified in screenshot,Transcribed,Action,,S01; S15,
+BW-012,Wrap as Automation Clip,Editing,Cmd+G,Assigned,Not specified in screenshot,Transcribed,Action,,S01; S15,
+BW-013,Collapse Item,Navigation,Left,Assigned,Not specified in screenshot,Transcribed,Action,,S01,
+BW-014,Enter Group,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S01,
+BW-015,Exit Group,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S01,
+BW-016,Expand Item,Navigation,Right,Assigned,Not specified in screenshot,Transcribed,Action,,S01,
+BW-017,Focus next field,Navigation,Tab,Assigned,Not specified in screenshot,Transcribed,Action,,S01,
+BW-018,Focus next panel,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S01,
+BW-019,Focus panel above,Navigation,Ctrl+Shift+Up,Assigned,Not specified in screenshot,Transcribed,Action,,S01,
+BW-020,Focus panel below,Navigation,Ctrl+Shift+Down,Assigned,Not specified in screenshot,Transcribed,Action,,S01,
+BW-021,Focus panel to the left,Navigation,Ctrl+Shift+Left,Assigned,Not specified in screenshot,Transcribed,Action,,S01,
+BW-022,Focus panel to the right,Navigation,Ctrl+Shift+Right,Assigned,Not specified in screenshot,Transcribed,Action,,S01,
+BW-023,Focus previous field,Navigation,Shift+Tab,Assigned,Not specified in screenshot,Transcribed,Action,,S01,
+BW-024,Focus previous panel,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S01,
+BW-025,Focus widget above,Navigation,Up; Up,Assigned,Not specified in screenshot,Transcribed,Action,,S01,
+BW-026,Focus widget below,Navigation,Down,Assigned,Not specified in screenshot,Transcribed,Action,,S01,
+BW-027,Focus widget to the left,Navigation,Left; Left,Assigned,Not specified in screenshot,Transcribed,Action,,S01,
+BW-028,Focus widget to the right,Navigation,Right,Assigned,Not specified in screenshot,Transcribed,Action,,S01,
+BW-029,Open in Editor,Navigation,Enter; Shift+Enter; Shift+Enter,Assigned,Not specified in screenshot,Transcribed,Action,,S01,
+BW-030,Select Next Project,Navigation,Ctrl+Tab,Assigned,Not specified in screenshot,Transcribed,Action,,S01,
+BW-031,Select Next Project and Activate Audio Engine,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S01,
+BW-032,Select Next Tab,Navigation,Ctrl+Down; Ctrl+Right,Assigned,Not specified in screenshot,Transcribed,Action,,S01,
+BW-033,Select Previous Project,Navigation,Ctrl+Shift+Tab,Assigned,Not specified in screenshot,Transcribed,Action,,S01,
+BW-034,Select Previous Project and Activate Audio Engi...,Navigation,,Unassigned,Not specified in screenshot,Needs review,Action,Action name clipped.,S01,
+BW-035,Select Previous Tab,Navigation,Ctrl+Up; Ctrl+Left,Assigned,Not specified in screenshot,Transcribed,Action,,S01,
+BW-036,Select Project,Navigation,,Not applicable,Not specified in screenshot,Transcribed,Group,Expanded subgroup; all 20 child actions captured.,S01; S20,
+BW-037,Select Project and Activate Audio Engine,Navigation,,Not applicable,Not specified in screenshot,Transcribed,Group,Expanded subgroup; all 20 child actions captured.,S01; S20,
+BW-038,Toggle children expanded state,Navigation,Ctrl+Enter,Assigned,Not specified in screenshot,Transcribed,Action,,S01,
+BW-039,Toggle expanded state,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S01,
+BW-040,Toggle siblings expanded state,Navigation,Shift+Enter,Assigned,Not specified in screenshot,Transcribed,Action,,S01,
+BW-041,Deselect All,Selection,Cmd+Shift+A,Assigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-042,Extend selection range to first item,Selection,Cmd+Shift+Up; Shift+Home; Shift+Alt+Home,Assigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-043,Extend Selection Range to First Lane,Selection,,Unassigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-044,Extend selection range to item above,Selection,Shift+Up,Assigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-045,Extend selection range to item below,Selection,Shift+Down,Assigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-046,Extend selection range to item to left,Selection,Shift+Left,Assigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-047,Extend selection range to item to right,Selection,Shift+Right,Assigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-048,Extend selection range to last item,Selection,Cmd+Shift+Down; Shift+End; Shift+Alt+End,Assigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-049,Extend Selection Range to Last Lane,Selection,,Unassigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-050,Extend selection range to next item,Selection,Shift+Down; Shift+Down; Shift+Right,Assigned,Not specified in screenshot,Needs review,Action,Additional shortcut clipped at right (starts Ctrl+Shift+...).,S02,
+BW-051,Extend Selection Range to Next Lane,Selection,Shift+Down; Shift+Right,Assigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-052,Extend Selection Range to Previous Item,Selection,Shift+Up; Shift+Up; Shift+Left; Ctrl+Shift+Up,Assigned,Not specified in screenshot,Needs review,Action,Additional shortcut clipped at right.,S02,
+BW-053,Extend Selection Range to Previous Lane,Selection,Shift+Up; Shift+Left,Assigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-054,Extend selection to first item,Selection,Ctrl+Shift+Home,Assigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-055,Extend Selection to First Lane,Selection,,Unassigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-056,Extend selection to item above,Selection,Ctrl+Shift+Up,Assigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-057,Extend selection to item below,Selection,Ctrl+Shift+Down,Assigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-058,Extend selection to item to left,Selection,Ctrl+Shift+Left,Assigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-059,Extend selection to item to right,Selection,Ctrl+Shift+Right,Assigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-060,Extend selection to last item,Selection,Ctrl+Shift+End,Assigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-061,Extend Selection to Last Lane,Selection,,Unassigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-062,Extend Selection to Next Item,Selection,,Unassigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-063,Extend Selection to Next Lane,Selection,,Unassigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-064,Extend Selection to Previous Item,Selection,,Unassigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-065,Move Cursor to First Lane,Selection,,Unassigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-066,Move Cursor to Last Lane,Selection,,Unassigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-067,Move Cursor to Next Lane,Selection,Ctrl+Down; Ctrl+Right,Assigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-068,Move Cursor to Previous Lane,Selection,Ctrl+Up; Ctrl+Left,Assigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-069,Move selection cursor down,Selection,Ctrl+Down,Assigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-070,Move selection cursor left,Selection,Ctrl+Left,Assigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-071,Move selection cursor right,Selection,Ctrl+Right,Assigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-072,Move selection cursor to first item,Selection,Cmd+Up; Ctrl+Home,Assigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-073,Move selection cursor to last item,Selection,Cmd+Down; Ctrl+End,Assigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-074,Move selection cursor to next item,Selection,Down; Ctrl+Down; Ctrl+Down; Ctrl+Right,Assigned,Not specified in screenshot,Needs review,Action,Additional shortcut clipped at right (starts Alt+...).,S02,
+BW-075,Move selection cursor to previous item,Selection,Up; Ctrl+Up; Ctrl+Up; Ctrl+Left; Alt+Up,Assigned,Not specified in screenshot,Needs review,Action,Additional shortcut clipped at right.,S02,
+BW-076,Move selection cursor up,Selection,Ctrl+Up,Assigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-077,Select All,Selection,Cmd+A,Assigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-078,Select first item,Selection,Home,Assigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-079,Select item above,Selection,Up,Assigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-080,Select item at cursor,Selection,,Unassigned,Not specified in screenshot,Transcribed,Action,,S02,
+BW-081,Select item below,Selection,Down,Assigned,Not specified in screenshot,Transcribed,Action,,S02; S03,
+BW-082,Select Item in First Lane,Selection,,Unassigned,Not specified in screenshot,Transcribed,Action,,S02; S03,
+BW-083,Select Item in last Lane,Selection,,Unassigned,Not specified in screenshot,Transcribed,Action,,S02; S03,
+BW-084,Select Item in Next Lane,Selection,Down; Right,Assigned,Not specified in screenshot,Transcribed,Action,,S02; S03,
+BW-085,Select Item in Previous Lane,Selection,Up; Left,Assigned,Not specified in screenshot,Transcribed,Action,,S02; S03,
+BW-086,Select item to left,Selection,Left,Assigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-087,Select item to right,Selection,Right,Assigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-088,Select last item,Selection,End,Assigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-089,Select Next Item,Selection,Down; Down; Right; Alt+Right,Assigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-090,Select Previous Item,Selection,Up; Up; Left; Alt+Left,Assigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-091,Toggle selection of item at cursor,Selection,Ctrl+Space,Assigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-092,Show Item Help,Help,Shift+F1,Assigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-093,Show Online Learning...,Help,,Unassigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-094,User Guide (English)...,Help,,Unassigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-095,User Guide (German)...,Help,,Unassigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-096,User Guide (Japanese)...,Help,,Unassigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-097,Decrease GUI Scaling,Window Management,Shift+F11,Assigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-098,Full screen,Window Management,F11,Assigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-099,Increase GUI Scaling,Window Management,Shift+F12,Assigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-100,Maximize window,Window Management,Ctrl+M,Assigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-101,Minimize window,Window Management,Ctrl+Shift+M,Assigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-102,Restore window,Window Management,,Unassigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-103,Cancel Dialog,Dialogs,Escape,Assigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-104,No,Dialogs,N,Assigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-105,OK,Dialogs,Enter,Assigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-106,Yes,Dialogs,Y,Assigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-107,Commit Text,Text Editing,Enter,Assigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-108,Delete character to left of cursor,Text Editing,Backspace,Assigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-109,Delete character to right of cursor,Text Editing,Delete,Assigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-110,Insert new line,Text Editing,Numpad Enter; Enter,Assigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-111,Move cursor and extend selection down,Text Editing,Shift+Down,Assigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-112,Move cursor and extend selection left,Text Editing,Shift+Left,Assigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-113,Move cursor and extend selection right,Text Editing,Shift+Right,Assigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-114,Move cursor and extend selection to end of doc...,Text Editing,Cmd+Shift+Down; Ctrl+Shift+End,Assigned,Not specified in screenshot,Needs review,Action,Action name clipped.,S03,
+BW-115,Move cursor and extend selection to end of line,Text Editing,Cmd+Shift+Right; Shift+End; Ctrl+Shift+E,Assigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-116,Move cursor and extend selection to start of do...,Text Editing,Cmd+Shift+Up; Ctrl+Shift+Home,Assigned,Not specified in screenshot,Needs review,Action,Action name clipped.,S03,
+BW-117,Move cursor and extend selection to start of line,Text Editing,Cmd+Shift+Left; Shift+Home; Ctrl+Shift+A,Assigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-118,Move cursor and extend selection up,Text Editing,Shift+Up,Assigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-119,Move cursor and extend selection word left,Text Editing,Ctrl+Shift+Left; Shift+Alt+Left,Assigned,Not specified in screenshot,Transcribed,Action,,S03,
+BW-120,Move cursor and extend selection word right,Text Editing,Ctrl+Shift+Right; Shift+Alt+Right,Assigned,Not specified in screenshot,Transcribed,Action,,S03; S04,
+BW-121,Move cursor down,Text Editing,Down,Assigned,Not specified in screenshot,Transcribed,Action,,S03; S04,
+BW-122,Move cursor left,Text Editing,Left,Assigned,Not specified in screenshot,Transcribed,Action,,S03; S04,
+BW-123,Move cursor right,Text Editing,Right,Assigned,Not specified in screenshot,Transcribed,Action,,S03; S04,
+BW-124,Move cursor to end of document,Text Editing,Cmd+Down; Ctrl+End,Assigned,Not specified in screenshot,Transcribed,Action,,S03; S04,
+BW-125,Move Cursor to End of Line,Text Editing,Cmd+Right; End; Ctrl+E,Assigned,Not specified in screenshot,Transcribed,Action,,S03; S04,
+BW-126,Move cursor to start of document,Text Editing,Cmd+Up; Ctrl+Home,Assigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-127,Move Cursor to Start of Line,Text Editing,Cmd+Left; Home; Ctrl+A,Assigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-128,Move cursor up,Text Editing,Up,Assigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-129,Move cursor word left,Text Editing,Ctrl+Left; Alt+Left,Assigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-130,Move cursor word right,Text Editing,Ctrl+Right; Alt+Right,Assigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-131,Reload,Text Editing,Cmd+R,Assigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-132,Stop Editing Text,Text Editing,Escape,Assigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-133,Invoke search-field action,Search,Tab,Assigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-134,Zoom In Horizontally,Zooming,Cmd++; Cmd+=; Numpad +; Zoom In,Assigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-135,Zoom In Vertically,Zooming,Cmd+Shift++; Cmd+Shift+=; Shift+Numpad +,Assigned,Not specified in screenshot,Needs review,Action,Additional shortcut clipped at right (starts Shift...).,S04,
+BW-136,Zoom Out Horizontally,Zooming,Cmd+-; Numpad -; Zoom Out,Assigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-137,Zoom Out Vertically,Zooming,Cmd+Shift+-; Shift+Numpad -; Shift+Zoom Out,Assigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-138,Zoom to Fit,Zooming,Cmd+0,Assigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-139,Zoom to Fit Selection,Zooming,,Unassigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-140,Zoom to Fit Selection Or All,Zooming,Z,Assigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-141,Zoom to Fit Selection or Previous,Zooming,,Unassigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-142,Activate Engine for Project,Project,F12,Assigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-143,Add Audio Track,Project,Cmd+Shift+T,Assigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-144,Add FX Track,Project,Cmd+Alt+T,Assigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-145,Add Group Track,Project,Cmd+Alt+G,Assigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-146,Add Instrument Track,Project,Cmd+T,Assigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-147,Add Scene,Project,Cmd+I,Assigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-148,Clear All VU Meter Clipping & Peaks,Project,Alt+C,Assigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-149,Continue Play Transport,Project,Shift+Play,Assigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-150,Continue Playback or Stop,Project,Shift+Space,Assigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-151,Decrease Tempo One Bpm,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-152,Decrease Tempo One Tenth Bpm,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-153,Delete All Automation Owned by Selection,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-154,Delete All Project Automation,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-155,Export Audio...,Project,Cmd+Shift+B,Assigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-156,Export DAWproject...,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-157,Export MIDI...,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-158,Fold/unfold All Group Tracks,Project,Shift+Alt+G,Assigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-159,Fold/unfold Top Level Group Tracks,Project,Alt+G,Assigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-160,Global Arm Off,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-161,Global Mute Off,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-162,Global Solo Off,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-163,Increase Tempo One Bpm,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-164,Increase Tempo One Tenth Bpm,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-165,Merge Duplicate Patterns for Project,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S04,
+BW-166,Move Playback Start Time One Step Backward,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-167,Move Playback Start Time One Step Forward,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-168,"Play from Start, or Stop Transport",Project,Alt+Space,Assigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-169,Play or Pause Transport,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-170,Play or Stop Transport,Project,Space,Assigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-171,Play Transport,Project,Play,Assigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-172,Play Transport from Start,Project,Alt+Play,Assigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-173,Restore Automation Control,Project,R,Assigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-174,Retrigger playing Launcher clips,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-175,Return Playback to Arranger for All Tracks,Project,,Unassigned,All Tracks (action label),Transcribed,Action,,S05,
+BW-176,Return Playback to Arranger for Selected Tracks,Project,,Unassigned,Selected Tracks (action label),Transcribed,Action,,S05,
+BW-177,Select Track,Project,,Not applicable,Not specified in screenshot,Transcribed,Group,Expanded subgroup; all 40 child actions captured.,S05; S21,
+BW-178,Start Master Recording,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-179,Stop Master Recording,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-180,Stop Playback of All Tracks,Project,,Unassigned,All Tracks (action label),Transcribed,Action,,S05,
+BW-181,Stop Playback of Selected Tracks,Project,,Unassigned,Selected Tracks (action label),Transcribed,Action,,S05,
+BW-182,Stop Transport,Project,Stop,Assigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-183,Tap Tempo,Project,Ctrl+Alt+Space,Assigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-184,Toggle Arranger Automation Write,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-185,Toggle Arranger Loop,Project,Shift+L,Assigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-186,Toggle Arranger Overdub,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-187,Toggle Global Automation Behavior,Project,0,Assigned,Not specified in screenshot,Needs review,Action,"Second shortcut looks like ä; character uncertain, not included in keys.",S05,
+BW-188,Toggle Groove,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-189,Toggle Master Recording,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-190,Toggle Metronome,Project,C,Assigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-191,Toggle Punch-In,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-192,Toggle Punch-Out,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-193,Toggle Record,Project,F9,Assigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-194,Toggle Track Arm,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-195,Toggle Track Mute,Project,Shift+M,Assigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-196,Toggle Track Solo / Cue,Project,Shift+S,Assigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-197,View follows playhead,Project,Shift+F,Assigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-198,Add Scene from Playing Clips,Clip Launcher,Cmd+Shift+I,Assigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-199,Launch Next Scene,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-200,Launch Next Slot (relative to playing clip),Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-201,Launch Previous Scene,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-202,Launch Previous Slot (relative to playing clip),Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-203,Launch Scene,Clip Launcher,,Not applicable,Not specified in screenshot,Transcribed,Group,Expanded subgroup; all 40 child actions captured.,S05; S22,
+BW-204,Launch Scene At Cursor,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-205,Launch Slot,Clip Launcher,,Not applicable,Not specified in screenshot,Transcribed,Group,Expanded subgroup; all 40 child actions captured.,S05; S23,
+BW-206,Remove/restore Stop Button,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-207,Scroll to Next Scene,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-208,Scroll to Previous Scene,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S05,
+BW-209,Target Selected Scene,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S05; S06,
+BW-210,Toggle Clip Launcher Overdub,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S05; S06,
+BW-211,Auto Zoom Selected Track,Panel Management,Shift+Z,Assigned,Not specified in screenshot,Transcribed,Action,,S05; S06,
+BW-212,Focus Track Header Area,Panel Management,T,Assigned,Not specified in screenshot,Transcribed,Action,,S05; S06,
+BW-213,Focus/toggle Arranger Timeline Panel,Panel Management,O; Alt+O,Assigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-214,Focus/toggle Clip Editor Panel,Panel Management,E; Alt+E,Assigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-215,Focus/toggle Clip Launcher Panel,Panel Management,L; Alt+L,Assigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-216,Focus/toggle Device Panel,Panel Management,D; Alt+D,Assigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-217,Focus/toggle Inspector Panel,Panel Management,I; Alt+I,Assigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-218,Focus/toggle Mixer Panel,Panel Management,M; Alt+M,Assigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-219,Focus/toggle On-screen Keyboard Panel,Panel Management,,Unassigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-220,Focus/toggle Project Panel,Panel Management,Alt+P,Assigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-221,Focus/toggle Studio Monitoring Panel,Panel Management,,Unassigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-222,Select Next Mode,Panel Management,Tab,Assigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-223,Select Next Sub-panel,Panel Management,`,Assigned,Not specified in screenshot,Transcribed,Action,User verified punctuation/key transcription in Bitwig on 2026-11-13.,S06,
+BW-224,Select Previous Mode,Panel Management,,Unassigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-225,Select Previous Sub-panel,Panel Management,Shift+`,Assigned,Not specified in screenshot,Transcribed,Action,User verified punctuation/key transcription in Bitwig on 2026-11-13.,S06,
+BW-226,Select Sub-panel 1,Panel Management,F5,Assigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-227,Select Sub-panel 2,Panel Management,F6,Assigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-228,Select Sub-panel 3,Panel Management,F7,Assigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-229,Select Sub-panel 4,Panel Management,F8,Assigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-230,Show Crossfades,Panel Management,,Unassigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-231,Show Cue Markers,Panel Management,Shift+Alt+C,Assigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-232,Show FX Tracks,Panel Management,,Unassigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-233,Show Sends,Panel Management,,Unassigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-234,Show Time Ruler,Panel Management,,Unassigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-235,Show Track I/O,Panel Management,,Unassigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-236,Show Track Volume,Panel Management,,Unassigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-237,Show Transport Lanes,Panel Management,,Unassigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-238,Show/hide Time Signature Markers,Panel Management,,Unassigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-239,Switch to Mode 1,Panel Management,F1,Assigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-240,Switch to Mode 2,Panel Management,F2,Assigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-241,Switch to Mode 3,Panel Management,F3,Assigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-242,Switch to Mode 4,Panel Management,F4,Assigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-243,Toggle Arranger Timeline Panel,Panel Management,,Unassigned,Not specified in screenshot,Needs review,Action,Two distinct identical labels appear consecutively; preserved as separate rows (1 of 2).,S06,
+BW-244,Toggle Arranger Timeline Panel,Panel Management,,Unassigned,Not specified in screenshot,Needs review,Action,Two distinct identical labels appear consecutively; preserved as separate rows (2 of 2).,S06,
+BW-245,Toggle Browser Panel,Panel Management,,Unassigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-246,Toggle Clip Editor Panel,Panel Management,,Unassigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-247,Toggle Clip Launcher,Panel Management,,Unassigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-248,Toggle Device Panel,Panel Management,,Unassigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-249,Toggle Edit View,Panel Management,Shift+Tab,Assigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-250,Toggle File Browser Panel,Panel Management,Cmd+F9,Assigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-251,Toggle Inspector Panel,Panel Management,,Unassigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-252,Toggle Mappings Panel,Panel Management,Cmd+F12,Assigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-253,Toggle Mixer Panel,Panel Management,,Unassigned,Not specified in screenshot,Transcribed,Action,,S06,
+BW-254,Toggle Project Panel,Panel Management,Cmd+F10,Assigned,Not specified in screenshot,Transcribed,Action,,S06; S07; S11,
+BW-255,Toggle Studio Monitoring Panel,Panel Management,Cmd+F11,Assigned,Not specified in screenshot,Transcribed,Action,,S06; S07; S11,
+BW-256,Toggle Track List,Panel Management,Cmd+F8,Assigned,Not specified in screenshot,Transcribed,Action,,S06; S07; S11,
+BW-257,Toggle Track-timeline vs. Clip-content Editing,Panel Management,Alt+T,Assigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-258,Toggle Visibility of Deactivated Channels,Panel Management,Ctrl+D,Assigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-259,Horizontally Zoom Arranger to Fit Selection or ...,Arranger,,Unassigned,Not specified in screenshot,Needs review,Action,Action name clipped.,S07; S11,
+BW-260,Insert Cue Marker Here,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-261,Jump Backward 8 Bars,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-262,Jump Forward 8 Bars,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-263,Jump to Beginning of Arrangement,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-264,Jump to Beginning of Arranger Loop,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-265,Jump to Beginning of Arranger Window,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-266,Jump to Beginning of Current Bar,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-267,Jump to Beginning of Next Bar,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-268,Jump to Beginning of Previous Bar,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-269,Jump to End of Arrangement,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-270,Jump to End of Arranger Loop,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-271,Jump to Next Cue Marker,Arranger,Shift+Alt+.,Assigned,Not specified in screenshot,Transcribed,Action,User verified punctuation/key transcription in Bitwig on 2026-11-13.,S07; S11,
+BW-272,Jump to Playback Start Time,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-273,Jump to Previous Cue Marker,Arranger,"Shift+Alt+,",Assigned,Not specified in screenshot,Transcribed,Action,User verified punctuation/key transcription in Bitwig on 2026-11-13.,S07; S11,
+BW-274,Launch Arranger Cue Marker,Arranger,,Not applicable,Not specified in screenshot,Transcribed,Group,Expanded subgroup; all 40 child actions captured.,S07; S11; S24,
+BW-275,Launch from Beginning of Arrangement,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-276,Launch from Beginning of Arranger Loop,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-277,Launch from End of Arrangement,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-278,Launch from End of Arranger Loop,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-279,Launch from Playback Start Time,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-280,Launch Next Cue Marker,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-281,Launch Previous Cue Marker,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-282,Toggle Automation Lanes for All Tracks,Arranger,,Unassigned,All Tracks (action label),Transcribed,Action,,S07; S11,
+BW-283,Toggle Automation Lanes for Selected Tracks,Arranger,Shift+A,Assigned,Selected Tracks (action label),Transcribed,Action,,S07; S11,
+BW-284,Toggle Automation Mode,Arranger,A,Assigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-285,Toggle Flying Automation Lane,Arranger,Shift+Alt+A,Assigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-286,Zoom Arranger to Fit,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-287,Zoom Arranger to Fit Selection or All,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-288,Zoom Arranger to Selection,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-289,Zoom In Arranger,Arranger,Alt+],Assigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-290,Zoom In Arranger Lane Heights (All Tracks),Arranger,],Assigned,All Tracks (action label),Transcribed,Action,,S07; S11,
+BW-291,Zoom In Arranger Lane Heights (Selection),Arranger,Cmd+],Assigned,Selection (action label),Transcribed,Action,,S07; S11,
+BW-292,Zoom Out Arranger,Arranger,Alt+[,Assigned,Not specified in screenshot,Transcribed,Action,,S07; S11,
+BW-293,Zoom Out Arranger Lane Heights (All Tracks),Arranger,[,Assigned,All Tracks (action label),Transcribed,Action,,S07; S11,
+BW-294,Zoom Out Arranger Lane Heights (Selection),Arranger,Cmd+[,Assigned,Selection (action label),Transcribed,Action,,S07; S11,
+BW-295,Mixer Zoom In (All Tracks),Mixer,Cmd++; Cmd+=; Numpad +; Zoom In,Assigned,All Tracks (action label),Transcribed,Action,,S07; S08; S11; S12,
+BW-296,Mixer Zoom In (Selected Tracks),Mixer,,Unassigned,Selected Tracks (action label),Transcribed,Action,,S07; S08; S11; S12,
+BW-297,Mixer Zoom Out (All Tracks),Mixer,Cmd+0; Cmd+-; Numpad -; Zoom Out,Assigned,All Tracks (action label),Transcribed,Action,,S07; S08; S11; S12,
+BW-298,Mixer Zoom Out (Selected Tracks),Mixer,,Unassigned,Selected Tracks (action label),Transcribed,Action,,S07; S08; S11; S12,
+BW-299,Toggle Big Meters,Mixer,,Unassigned,Not specified in screenshot,Transcribed,Action,,S07; S08; S11; S12,
+BW-300,Toggle Large Clip Height,Mixer,,Unassigned,Not specified in screenshot,Transcribed,Action,,S07; S08; S11; S12,
+BW-301,Audition Notes,Detail Editor,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-302,Automatic Crossfades,Detail Editor,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-303,Horizontally Zoom Detail Editor to Fit Selection ...,Detail Editor,,Unassigned,Not specified in screenshot,Needs review,Action,Action name clipped.,S08; S12,
+BW-304,Navigate to Next Editor Content,Detail Editor,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-305,Navigate to Previous Editor Content,Detail Editor,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-306,Show Audio Editor,Detail Editor,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-307,Show Automation Editor,Detail Editor,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-308,Show Comping Editor,Detail Editor,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-309,Show Drum/Hybrid Editor,Detail Editor,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-310,Show Expression Editor,Detail Editor,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-311,Show next editor mode,Detail Editor,F; Alt+F,Assigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-312,Show Piano Roll,Detail Editor,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-313,Show previous editor mode,Detail Editor,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-314,Snap to Key,Detail Editor,K,Assigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-315,Toggle Automation Lane,Detail Editor,A,Assigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-316,Toggle Edit Audio Expression,Detail Editor,X,Assigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-317,Toggle Edit Audio Formant,Detail Editor,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-318,Toggle Edit Audio Gain,Detail Editor,G,Assigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-319,Toggle Edit Audio Pan,Detail Editor,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-320,Toggle Edit Audio Transpose,Detail Editor,T,Assigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-321,Toggle Edit Note Expression,Detail Editor,X,Assigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-322,Toggle Edit Note Gain,Detail Editor,G,Assigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-323,Toggle Edit Note Pan,Detail Editor,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-324,Toggle Edit Note Pressure,Detail Editor,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-325,Toggle Edit Note Timbre,Detail Editor,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-326,Toggle Edit Note Transpose,Detail Editor,P,Assigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-327,Toggle Edit Onsets,Detail Editor,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-328,Toggle Edit Stretch,Detail Editor,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-329,Toggle Layer List,Detail Editor,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-330,Toggle Note Channel Filter,Detail Editor,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-331,Toggle Note Expression Lane,Detail Editor,V,Assigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-332,Zoom Detail Editor to Fit,Detail Editor,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-333,Zoom Detail Editor to Fit Selection or All,Detail Editor,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-334,Zoom Detail Editor to Selection,Detail Editor,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-335,Zoom In Detail Editor,Detail Editor,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-336,Zoom In Detail Editor Lane Heights,Detail Editor,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-337,Zoom Out Detail Editor,Detail Editor,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-338,Zoom Out Detail Editor Lane Heights,Detail Editor,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-339,Distribute Key Equally,Multisample,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-340,Distribute Select Equally,Multisample,,Unassigned,Not specified in screenshot,Transcribed,Action,,S08; S12,
+BW-341,Distribute Velocity Equally,Multisample,,Unassigned,Not specified in screenshot,Transcribed,Action,,S09; S13,
+BW-342,Nudge Down,Multisample,Down,Assigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-343,Nudge Down (coarse),Multisample,Shift+Down,Assigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-344,Nudge Left,Multisample,Left,Assigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-345,Nudge Left (coarse),Multisample,Shift+Left,Assigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-346,Nudge Right,Multisample,Right,Assigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-347,Nudge Right (coarse),Multisample,Shift+Right,Assigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-348,Nudge Up,Multisample,Up,Assigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-349,Nudge Up (coarse),Multisample,Shift+Up,Assigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-350,Add Music Location...,Browser,,Unassigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-351,Add Plug-in Location...,Browser,,Unassigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-352,Add Sound Content Location...,Browser,,Unassigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-353,Clear Focused Filter,Browser,X,Assigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-354,Create Collection...,Browser,,Unassigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-355,Edit Smart Collection,Browser,,Unassigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-356,Focus Browser File List,Browser,Cmd+R; Down; Cmd+Down; Cmd+Down,Assigned,Not specified in screenshot,Needs review,Action,Additional shortcut clipped at right (visible text starts Right).,S09; S10; S13; S14,
+BW-357,Focus Browser Overview List,Browser,,Unassigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-358,Focus Browser Search Field,Browser,Cmd+Up; Cmd+Up; Page Up; Page Up,Assigned,Not specified in screenshot,Needs review,Action,Additional shortcut clipped at right (starts Cmd+H...).,S09; S10; S13; S14,
+BW-359,Focus Category Column,Browser,,Unassigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-360,Focus Category Or Creator Column,Browser,C,Assigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-361,Focus Creator Column,Browser,,Unassigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-362,Focus Device Column,Browser,D,Assigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-363,Focus File Kind Or Type Column,Browser,F,Assigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-364,Focus Filters,Browser,Cmd+Up; Cmd+Down; Left; Cmd+Left,Assigned,Not specified in screenshot,Needs review,Action,Additional shortcut clipped at right (starts Page U...).,S09; S10; S13; S14,
+BW-365,Focus Location Column,Browser,L,Assigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-366,Focus Tags Column,Browser,T,Assigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-367,Focus Vendor Column,Browser,V,Assigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-368,Remove from all Collections,Browser,Alt+0; Alt+Numpad 0,Assigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-369,Save Smart Collection...,Browser,,Unassigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-370,Save Snapshot...,Browser,,Unassigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-371,Select Everything,Browser,F1,Assigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-372,Select Next Filter Column,Browser,Cmd+Alt+Down; Cmd+Alt+Right,Assigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-373,Select Next Palette Item,Browser,Cmd+Alt+Down; Cmd+Alt+Right,Assigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-374,Select Next Search Source,Browser,,Unassigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-375,Select Prev Filter Column,Browser,Cmd+Alt+Up; Cmd+Alt+Left,Assigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-376,Select Prev Palette Item,Browser,Cmd+Alt+Up; Cmd+Alt+Left,Assigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-377,Select Previous Search Source,Browser,,Unassigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-378,Select Quick Source,Browser,,Not applicable,Not specified in screenshot,Transcribed,Group,Expanded subgroup; all 9 child actions captured.,S09; S10; S13; S14; S25,
+BW-379,Select Quick sub-source,Browser,,Not applicable,Not specified in screenshot,Transcribed,Group,Expanded subgroup; all 5 child actions captured.,S09; S10; S13; S14; S25,
+BW-380,Show Presets for Device,Browser,Right,Assigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-381,Stop Showing Presets for Device,Browser,Left; Left,Assigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-382,Toggle All Sources view,Browser,Cmd+0,Assigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-383,Toggle Collection,Browser,,Not applicable,Not specified in screenshot,Transcribed,Group,Expanded subgroup; all 9 child actions captured.,S09; S10; S13; S14; S25,
+BW-384,Toggle Favorite,Browser,0; Numpad 0,Assigned,Not specified in screenshot,Transcribed,Action,,S09; S10; S13; S14,
+BW-385,Toggle Preview Playback of Selected File,Browser,Right,Assigned,Not specified in screenshot,Transcribed,Action,,S10; S14,
+BW-386,Toggle Show Favorites,Browser,*,Assigned,Not specified in screenshot,Transcribed,Action,User verified punctuation/key transcription in Bitwig on 2026-11-13.,S10; S14,
+BW-387,Select Next Take,Comping,Up,Assigned,Not specified in screenshot,Transcribed,Action,,S10; S14,
+BW-388,Select Previous Take,Comping,Down,Assigned,Not specified in screenshot,Transcribed,Action,,S10; S14,
+BW-568,Select Project 1,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-036
+BW-569,Select Project 2,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-036
+BW-570,Select Project 3,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-036
+BW-571,Select Project 4,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-036
+BW-572,Select Project 5,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-036
+BW-573,Select Project 6,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-036
+BW-574,Select Project 7,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-036
+BW-575,Select Project 8,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-036
+BW-576,Select Project 9,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-036
+BW-577,Select Project 10,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-036
+BW-578,Select Project 11,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-036
+BW-579,Select Project 12,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-036
+BW-580,Select Project 13,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-036
+BW-581,Select Project 14,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-036
+BW-582,Select Project 15,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-036
+BW-583,Select Project 16,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-036
+BW-584,Select Project 17,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-036
+BW-585,Select Project 18,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-036
+BW-586,Select Project 19,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-036
+BW-587,Select Project 20,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-036
+BW-588,Select Project 1 and Activate Audio Engine,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-037
+BW-589,Select Project 2 and Activate Audio Engine,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-037
+BW-590,Select Project 3 and Activate Audio Engine,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-037
+BW-591,Select Project 4 and Activate Audio Engine,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-037
+BW-592,Select Project 5 and Activate Audio Engine,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-037
+BW-593,Select Project 6 and Activate Audio Engine,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-037
+BW-594,Select Project 7 and Activate Audio Engine,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-037
+BW-595,Select Project 8 and Activate Audio Engine,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-037
+BW-596,Select Project 9 and Activate Audio Engine,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-037
+BW-597,Select Project 10 and Activate Audio Engine,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-037
+BW-598,Select Project 11 and Activate Audio Engine,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-037
+BW-599,Select Project 12 and Activate Audio Engine,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-037
+BW-600,Select Project 13 and Activate Audio Engine,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-037
+BW-601,Select Project 14 and Activate Audio Engine,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-037
+BW-602,Select Project 15 and Activate Audio Engine,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-037
+BW-603,Select Project 16 and Activate Audio Engine,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-037
+BW-604,Select Project 17 and Activate Audio Engine,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-037
+BW-605,Select Project 18 and Activate Audio Engine,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-037
+BW-606,Select Project 19 and Activate Audio Engine,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-037
+BW-607,Select Project 20 and Activate Audio Engine,Navigation,,Unassigned,Not specified in screenshot,Transcribed,Action,,S20,BW-037
+BW-608,Select Track 1,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-609,Select Track 2,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-610,Select Track 3,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-611,Select Track 4,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-612,Select Track 5,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-613,Select Track 6,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-614,Select Track 7,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-615,Select Track 8,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-616,Select Track 9,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-617,Select Track 10,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-618,Select Track 11,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-619,Select Track 12,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-620,Select Track 13,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-621,Select Track 14,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-622,Select Track 15,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-623,Select Track 16,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-624,Select Track 17,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-625,Select Track 18,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-626,Select Track 19,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-627,Select Track 20,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-628,Select Track 21,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-629,Select Track 22,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-630,Select Track 23,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-631,Select Track 24,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-632,Select Track 25,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-633,Select Track 26,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-634,Select Track 27,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-635,Select Track 28,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-636,Select Track 29,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-637,Select Track 30,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-638,Select Track 31,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-639,Select Track 32,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-640,Select Track 33,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-641,Select Track 34,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-642,Select Track 35,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-643,Select Track 36,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-644,Select Track 37,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-645,Select Track 38,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-646,Select Track 39,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-647,Select Track 40,Project,,Unassigned,Not specified in screenshot,Transcribed,Action,,S21,BW-177
+BW-648,Launch Scene 1,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-649,Launch Scene 2,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-650,Launch Scene 3,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-651,Launch Scene 4,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-652,Launch Scene 5,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-653,Launch Scene 6,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-654,Launch Scene 7,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-655,Launch Scene 8,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-656,Launch Scene 9,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-657,Launch Scene 10,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-658,Launch Scene 11,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-659,Launch Scene 12,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-660,Launch Scene 13,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-661,Launch Scene 14,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-662,Launch Scene 15,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-663,Launch Scene 16,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-664,Launch Scene 17,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-665,Launch Scene 18,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-666,Launch Scene 19,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-667,Launch Scene 20,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-668,Launch Scene 21,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-669,Launch Scene 22,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-670,Launch Scene 23,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-671,Launch Scene 24,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-672,Launch Scene 25,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-673,Launch Scene 26,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-674,Launch Scene 27,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-675,Launch Scene 28,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-676,Launch Scene 29,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-677,Launch Scene 30,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-678,Launch Scene 31,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-679,Launch Scene 32,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-680,Launch Scene 33,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-681,Launch Scene 34,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-682,Launch Scene 35,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-683,Launch Scene 36,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-684,Launch Scene 37,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-685,Launch Scene 38,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-686,Launch Scene 39,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-687,Launch Scene 40,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S22,BW-203
+BW-688,Launch Slot 1,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-689,Launch Slot 2,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-690,Launch Slot 3,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-691,Launch Slot 4,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-692,Launch Slot 5,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-693,Launch Slot 6,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-694,Launch Slot 7,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-695,Launch Slot 8,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-696,Launch Slot 9,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-697,Launch Slot 10,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-698,Launch Slot 11,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-699,Launch Slot 12,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-700,Launch Slot 13,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-701,Launch Slot 14,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-702,Launch Slot 15,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-703,Launch Slot 16,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-704,Launch Slot 17,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-705,Launch Slot 18,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-706,Launch Slot 19,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-707,Launch Slot 20,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-708,Launch Slot 21,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-709,Launch Slot 22,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-710,Launch Slot 23,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-711,Launch Slot 24,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-712,Launch Slot 25,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-713,Launch Slot 26,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-714,Launch Slot 27,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-715,Launch Slot 28,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-716,Launch Slot 29,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-717,Launch Slot 30,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-718,Launch Slot 31,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-719,Launch Slot 32,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-720,Launch Slot 33,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-721,Launch Slot 34,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-722,Launch Slot 35,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-723,Launch Slot 36,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-724,Launch Slot 37,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-725,Launch Slot 38,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-726,Launch Slot 39,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-727,Launch Slot 40,Clip Launcher,,Unassigned,Not specified in screenshot,Transcribed,Action,,S23,BW-205
+BW-728,Launch Arranger Cue Marker 1,Arranger,Shift+Alt+1,Assigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-729,Launch Arranger Cue Marker 2,Arranger,Shift+Alt+2,Assigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-730,Launch Arranger Cue Marker 3,Arranger,Shift+Alt+3,Assigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-731,Launch Arranger Cue Marker 4,Arranger,Shift+Alt+4,Assigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-732,Launch Arranger Cue Marker 5,Arranger,Shift+Alt+5,Assigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-733,Launch Arranger Cue Marker 6,Arranger,Shift+Alt+6,Assigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-734,Launch Arranger Cue Marker 7,Arranger,Shift+Alt+7,Assigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-735,Launch Arranger Cue Marker 8,Arranger,Shift+Alt+8,Assigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-736,Launch Arranger Cue Marker 9,Arranger,Shift+Alt+9,Assigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-737,Launch Arranger Cue Marker 10,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-738,Launch Arranger Cue Marker 11,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-739,Launch Arranger Cue Marker 12,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-740,Launch Arranger Cue Marker 13,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-741,Launch Arranger Cue Marker 14,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-742,Launch Arranger Cue Marker 15,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-743,Launch Arranger Cue Marker 16,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-744,Launch Arranger Cue Marker 17,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-745,Launch Arranger Cue Marker 18,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-746,Launch Arranger Cue Marker 19,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-747,Launch Arranger Cue Marker 20,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-748,Launch Arranger Cue Marker 21,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-749,Launch Arranger Cue Marker 22,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-750,Launch Arranger Cue Marker 23,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-751,Launch Arranger Cue Marker 24,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-752,Launch Arranger Cue Marker 25,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-753,Launch Arranger Cue Marker 26,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-754,Launch Arranger Cue Marker 27,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-755,Launch Arranger Cue Marker 28,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-756,Launch Arranger Cue Marker 29,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-757,Launch Arranger Cue Marker 30,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-758,Launch Arranger Cue Marker 31,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-759,Launch Arranger Cue Marker 32,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-760,Launch Arranger Cue Marker 33,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-761,Launch Arranger Cue Marker 34,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-762,Launch Arranger Cue Marker 35,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-763,Launch Arranger Cue Marker 36,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-764,Launch Arranger Cue Marker 37,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-765,Launch Arranger Cue Marker 38,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-766,Launch Arranger Cue Marker 39,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-767,Launch Arranger Cue Marker 40,Arranger,,Unassigned,Not specified in screenshot,Transcribed,Action,,S24,BW-274
+BW-768,Select Quick Source 1,Browser,F2,Assigned,Not specified in screenshot,Transcribed,Action,,S25,BW-378
+BW-769,Select Quick Source 2,Browser,F3,Assigned,Not specified in screenshot,Transcribed,Action,,S25,BW-378
+BW-770,Select Quick Source 3,Browser,F4,Assigned,Not specified in screenshot,Transcribed,Action,,S25,BW-378
+BW-771,Select Quick Source 4,Browser,F5,Assigned,Not specified in screenshot,Transcribed,Action,,S25,BW-378
+BW-772,Select Quick Source 5,Browser,F6,Assigned,Not specified in screenshot,Transcribed,Action,,S25,BW-378
+BW-773,Select Quick Source 6,Browser,F7,Assigned,Not specified in screenshot,Transcribed,Action,,S25,BW-378
+BW-774,Select Quick Source 7,Browser,F8,Assigned,Not specified in screenshot,Transcribed,Action,,S25,BW-378
+BW-775,Select Quick Source 8,Browser,F9,Assigned,Not specified in screenshot,Transcribed,Action,,S25,BW-378
+BW-776,Select Quick Source 9,Browser,,Unassigned,Not specified in screenshot,Transcribed,Action,,S25,BW-378
+BW-777,Select Quick sub-source 1,Browser,Cmd+F1,Assigned,Not specified in screenshot,Transcribed,Action,,S25,BW-379
+BW-778,Select Quick sub-source 2,Browser,Cmd+F2,Assigned,Not specified in screenshot,Transcribed,Action,,S25,BW-379
+BW-779,Select Quick sub-source 3,Browser,Cmd+F3,Assigned,Not specified in screenshot,Transcribed,Action,,S25,BW-379
+BW-780,Select Quick sub-source 4,Browser,Cmd+F4,Assigned,Not specified in screenshot,Transcribed,Action,,S25,BW-379
+BW-781,Select Quick sub-source 5,Browser,Cmd+F5,Assigned,Not specified in screenshot,Transcribed,Action,,S25,BW-379
+BW-782,Toggle Collection 1,Browser,1; Numpad 1,Assigned,Not specified in screenshot,Transcribed,Action,,S25,BW-383
+BW-783,Toggle Collection 2,Browser,2; Numpad 2,Assigned,Not specified in screenshot,Transcribed,Action,,S25,BW-383
+BW-784,Toggle Collection 3,Browser,3; Numpad 3,Assigned,Not specified in screenshot,Transcribed,Action,,S25,BW-383
+BW-785,Toggle Collection 4,Browser,4; Numpad 4,Assigned,Not specified in screenshot,Transcribed,Action,,S25,BW-383
+BW-786,Toggle Collection 5,Browser,5; Numpad 5,Assigned,Not specified in screenshot,Transcribed,Action,,S25,BW-383
+BW-787,Toggle Collection 6,Browser,6; Numpad 6,Assigned,Not specified in screenshot,Transcribed,Action,,S25,BW-383
+BW-788,Toggle Collection 7,Browser,7; Numpad 7,Assigned,Not specified in screenshot,Transcribed,Action,,S25,BW-383
+BW-789,Toggle Collection 8,Browser,8; Numpad 8,Assigned,Not specified in screenshot,Transcribed,Action,,S25,BW-383
+BW-790,Toggle Collection 9,Browser,9; Numpad 9,Assigned,Not specified in screenshot,Transcribed,Action,,S25,BW-383
