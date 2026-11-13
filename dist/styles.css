@@ -64,3 +64,12 @@ main{max-width:1920px;padding:32px}header h1{max-width:none}.workspace{display:g
 @media(max-width:850px){#categoryJumps{flex-wrap:nowrap;overflow-x:auto}#categoryJumps a{flex:none;min-height:44px}.current-category{font-size:21px;padding:8px 14px}}
 
 [data-theme="project"] #categoryJumps a[aria-current="location"]{background:var(--track);color:#202124}
+
+/* Keep desktop search available without covering the results or trapping tall content. */
+.sidebar-title{font-size:25px;font-weight:750;line-height:1.2;letter-spacing:-.035em;padding:6px 0 18px;background:var(--bg)}
+.sidebar-title span{color:#ffab62}
+@media(min-width:851px){
+ .workspace aside{position:sticky;top:12px;max-height:calc(100vh - 24px);max-height:calc(100dvh - 24px);overflow-y:auto;scrollbar-gutter:stable;padding:4px 8px 8px 4px;scroll-padding-block:12px}
+ .sidebar-title{position:sticky;top:-4px;z-index:2}
+}
+@media(max-width:850px){.sidebar-title{display:none}}

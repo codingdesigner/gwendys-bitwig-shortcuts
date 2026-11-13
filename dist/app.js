@@ -110,3 +110,10 @@ $('exportBtn').onclick=()=>{const blob=new Blob(['\uFEFF'+core.csv(current)],{ty
 $('restoreBtn').onclick=()=>{if(!confirm('Replace this browser’s imported snapshot with the original screenshot catalog? Google Sheets will not change.'))return;try{localStorage.removeItem(storageKey)}catch{}records=BITWIG_DATA.rows;snapshot='Screenshot catalog · user corrections November 13, 2026';categories();reset();$('message').textContent='Original snapshot restored in this browser.'};
 document.addEventListener('keydown',e=>{const editing=e.target.matches('input,select,textarea,[contenteditable]');if(e.key==='/'&&!editing&&!e.ctrlKey&&!e.metaKey&&!e.altKey){e.preventDefault();$('search').focus()}if(e.key==='Escape'&&['search','keys'].includes(e.target.id)){e.preventDefault();e.target.value='';render()}});
 categories();render();
+
+// The compact title belongs only to the sidebar, never above the results.
+const mainTitle=document.querySelector('header h1');
+const sidebarTitleObserver=new IntersectionObserver(([entry])=>{
+ $('sidebarTitle').hidden=entry.boundingClientRect.bottom>0;
+},{threshold:0});
+sidebarTitleObserver.observe(mainTitle);
