@@ -73,3 +73,8 @@ main{max-width:1920px;padding:32px}header h1{max-width:none}.workspace{display:g
  .sidebar-title{position:sticky;top:-4px;z-index:2}
 }
 @media(max-width:850px){.sidebar-title{display:none}}
+
+/* The menu remains reachable in the sticky category dock, including empty results. */
+.workspace.sidebar-collapsed{grid-template-columns:minmax(0,1fr)}
+.sidebar-toggle{margin:10px 10px 0;min-height:44px;font-size:18px;display:inline-flex;align-items:center;gap:10px}
+.sidebar-toggle span[aria-hidden]{font-size:24px;line-height:1}

@@ -53,7 +53,7 @@ function setCurrentCategory(active){
 }
 function scheduleCategoryUpdate(){if(!scrollPending){scrollPending=true;requestAnimationFrame(updateCurrentCategory)}}
 function rebuildCategoryNavigation(){
- visibleGroups=[...$('groups').children];$('categoryDock').hidden=!visibleGroups.length;
+ visibleGroups=[...$('groups').children];$('categoryDock').hidden=false;$('currentCategory').hidden=!visibleGroups.length;$('categoryJumps').hidden=!visibleGroups.length;
  $('currentCategory').dataset.category='';$('categoryJumps').replaceChildren();
  visibleGroups.forEach(group=>{
   group.id='category-'+orderedCategories().indexOf(group.dataset.category);
@@ -108,7 +108,7 @@ $('helpBtn').onclick=()=>{const open=$('guide').hidden;$('guide').hidden=!open;$
 $('importBtn').onclick=()=>$('file').click();$('file').onchange=async()=>{const f=$('file').files[0];if(!f)return;try{if(f.size>2*1024*1024)throw Error('Please use a CSV smaller than 2 MB.');const csv=await f.text(),next=core.parseCSV(csv);const label='Imported '+f.name+' · '+new Date().toLocaleString();let saved=true;try{localStorage.setItem(storageKey,JSON.stringify({csv,label}))}catch{saved=false}records=next;snapshot=label;categories();reset();$('message').textContent=`Loaded ${next.length} records. `+(saved?'Saved in this browser.':'Available this session only; browser storage is unavailable.')}catch(e){$('message').textContent=e.message+' Your current catalog is unchanged.'}finally{$('file').value=''}};
 $('exportBtn').onclick=()=>{const blob=new Blob(['\uFEFF'+core.csv(current)],{type:'text/csv;charset=utf-8'}),url=URL.createObjectURL(blob),a=node('a');a.href=url;a.download='bitwig-shortcuts-filtered.csv';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000)};
 $('restoreBtn').onclick=()=>{if(!confirm('Replace this browser’s imported snapshot with the original screenshot catalog? Google Sheets will not change.'))return;try{localStorage.removeItem(storageKey)}catch{}records=BITWIG_DATA.rows;snapshot='Screenshot catalog · user corrections November 13, 2026';categories();reset();$('message').textContent='Original snapshot restored in this browser.'};
-document.addEventListener('keydown',e=>{const editing=e.target.matches('input,select,textarea,[contenteditable]');if(e.key==='/'&&!editing&&!e.ctrlKey&&!e.metaKey&&!e.altKey){e.preventDefault();$('search').focus()}if(e.key==='Escape'&&['search','keys'].includes(e.target.id)){e.preventDefault();e.target.value='';render()}});
+document.addEventListener('keydown',e=>{const editing=e.target.matches('input,select,textarea,[contenteditable]');if(e.key==='/'&&!editing&&!e.ctrlKey&&!e.metaKey&&!e.altKey){e.preventDefault();setSidebarOpen(true);$('search').focus()}if(e.key==='Escape'&&['search','keys'].includes(e.target.id)){e.preventDefault();e.target.value='';render()}});
 categories();render();
 
 // The compact title belongs only to the sidebar, never above the results.
@@ -117,3 +117,18 @@ const sidebarTitleObserver=new IntersectionObserver(([entry])=>{
  $('sidebarTitle').hidden=entry.boundingClientRect.bottom>0;
 },{threshold:0});
 sidebarTitleObserver.observe(mainTitle);
+
+function setSidebarOpen(open){
+ const sidebar=$('filterSidebar');
+ if(!open&&sidebar.contains(document.activeElement))$('sidebarToggle').focus({preventScroll:true});
+ sidebar.hidden=!open;
+ document.querySelector('.workspace').classList.toggle('sidebar-collapsed',!open);
+ $('sidebarToggle').setAttribute('aria-expanded',String(open));
+ $('sidebarToggleLabel').textContent=open?'Hide filters':'Show filters';
+ scheduleCategoryUpdate();
+}
+$('sidebarToggle').onclick=()=>{
+ const open=$('filterSidebar').hidden;
+ setSidebarOpen(open);
+ if(open){$('search').focus();}
+};
