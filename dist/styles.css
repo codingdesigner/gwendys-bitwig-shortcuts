@@ -88,3 +88,8 @@ main{max-width:1920px;padding:32px}header h1{max-width:none}.workspace{display:g
  .category-dock>.sidebar-toggle{width:44px;padding:8px;justify-content:center}
  .sidebar-toggle #sidebarToggleLabel{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
 }
+
+/* Icon-only filter control; its changing label remains accessible. */
+.category-dock>.sidebar-toggle{width:44px;height:44px;padding:8px;justify-content:center}
+.sidebar-toggle #sidebarToggleLabel{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+.sidebar-toggle svg{flex:none}
