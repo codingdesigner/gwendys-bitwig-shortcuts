@@ -34,7 +34,7 @@ function renderAction(r){
 const modifierNames=['cmd','alt','ctrl','shift'];
 const specialKeys=['Up','Down','Left','Right','Enter','Numpad Enter','Space','Tab','Escape','Backspace','Delete','Home','End','Page Up','Page Down',...Array.from({length:24},(_,i)=>'F'+(i+1)),...Array.from({length:10},(_,i)=>'Numpad '+i),'Numpad +','Numpad -','Numpad *','Numpad /','Numpad .','Stop','Play','Zoom In','Zoom Out'];
 specialKeys.forEach(k=>$('specialKey').add(new Option(k,k)));
-function clearShortcut(){$('keys').value='';$('specialKey').value='';modifierNames.forEach(m=>$('mod-'+m).checked=false)}
+function clearShortcut(){$('mod-all').checked=true;$('keys').value='';$('specialKey').value='';modifierNames.forEach(m=>$('mod-'+m).checked=false)}
 let visibleGroups=[],scrollPending=false;
 function updateCurrentCategory(){
  scrollPending=false;if(!visibleGroups.length)return;
@@ -71,9 +71,9 @@ window.addEventListener('scroll',scheduleCategoryUpdate,{passive:true});
 window.addEventListener('resize',scheduleCategoryUpdate);
 if(typeof ResizeObserver!=='undefined')new ResizeObserver(scheduleCategoryUpdate).observe($('groups'));
 function render(){
- const query={search:$('search').value,baseKey:$('specialKey').value||$('keys').value.trim(),modifiers:modifierNames.filter(m=>$('mod-'+m).checked),category:$('category').value,assignment:$('assignment').value,review:$('review').checked};
+ const query={search:$('search').value,baseKey:$('specialKey').value||$('keys').value.trim(),allModifiers:$('mod-all').checked,modifiers:modifierNames.filter(m=>$('mod-'+m).checked),category:$('category').value,assignment:$('assignment').value,review:$('review').checked};
  const modLabels={cmd:'Command',alt:'Option',ctrl:'Control',shift:'Shift'};
- $('keyPreview').textContent=query.baseKey||query.modifiers.length?'Matching: '+[...query.modifiers.map(m=>modLabels[m]),query.baseKey||'any key'].join(' + '):'Any shortcut';
+ $('keyPreview').textContent=query.allModifiers?(query.baseKey?'Matching: '+query.baseKey+' · with any modifiers or none':'Any shortcut'):query.baseKey||query.modifiers.length?'Matching: '+[...query.modifiers.map(m=>modLabels[m]),query.baseKey||'any key'].join(' + '):'Any shortcut';
  const filtered=core.filter(records,query),fragment=document.createDocumentFragment();current=[];
  const searching=Boolean(query.search||query.baseKey||query.modifiers.length||query.category||query.assignment||query.review);
  for(const category of orderedCategories()){
@@ -103,7 +103,7 @@ function render(){
 function setAllGroups(open){document.querySelectorAll('.category-group').forEach(group=>{group.open=open;if(open)collapsedCategories.delete(group.dataset.category);else collapsedCategories.add(group.dataset.category)})}
 $('expandAll').onclick=()=>setAllGroups(true);$('collapseAll').onclick=()=>setAllGroups(false);
 function reset(){$('search').value='';clearShortcut();$('category').value='';$('assignment').value='';$('review').checked=false;render()}
-$('search').addEventListener('input',render);$('keys').addEventListener('input',()=>{$('specialKey').value='';render()});$('specialKey').onchange=()=>{$('keys').value='';render()};modifierNames.forEach(m=>$('mod-'+m).onchange=render);$('clearShortcut').onclick=()=>{clearShortcut();render()};['category','assignment','review'].forEach(id=>$(id).addEventListener('change',render));$('reset').onclick=reset;$('emptyReset').onclick=()=>{reset();$('search').focus()};
+$('search').addEventListener('input',render);$('keys').addEventListener('input',()=>{$('specialKey').value='';render()});$('specialKey').onchange=()=>{$('keys').value='';render()};modifierNames.forEach(m=>$('mod-'+m).onchange=()=>{$('mod-all').checked=false;render()});$('mod-all').onchange=()=>{if($('mod-all').checked)modifierNames.forEach(m=>$('mod-'+m).checked=false);render()};$('clearShortcut').onclick=()=>{clearShortcut();render()};['category','assignment','review'].forEach(id=>$(id).addEventListener('change',render));$('reset').onclick=reset;$('emptyReset').onclick=()=>{reset();$('search').focus()};
 $('helpBtn').onclick=()=>{const open=$('guide').hidden;$('guide').hidden=!open;$('helpBtn').setAttribute('aria-expanded',String(open))};
 $('importBtn').onclick=()=>$('file').click();$('file').onchange=async()=>{const f=$('file').files[0];if(!f)return;try{if(f.size>2*1024*1024)throw Error('Please use a CSV smaller than 2 MB.');const csv=await f.text(),next=core.parseCSV(csv);const label='Imported '+f.name+' · '+new Date().toLocaleString();let saved=true;try{localStorage.setItem(storageKey,JSON.stringify({csv,label}))}catch{saved=false}records=next;snapshot=label;categories();reset();$('message').textContent=`Loaded ${next.length} records. `+(saved?'Saved in this browser.':'Available this session only; browser storage is unavailable.')}catch(e){$('message').textContent=e.message+' Your current catalog is unchanged.'}finally{$('file').value=''}};
 $('exportBtn').onclick=()=>{const blob=new Blob(['\uFEFF'+core.csv(current)],{type:'text/csv;charset=utf-8'}),url=URL.createObjectURL(blob),a=node('a');a.href=url;a.download='bitwig-shortcuts-filtered.csv';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000)};
